@@ -7,9 +7,9 @@ The Roasted Bean là một ứng dụng quản lý và đặt món quán cà ph�
 ## 📸 Giao diện ứng dụng (Screenshots)
 *(Bạn hãy chụp ảnh màn hình web của bạn, đưa vào thư mục `/docs` và thay thế link ảnh dưới đây)*
 
-![Trang chủ](./docs/home.png)
-![Giỏ hàng & Thanh toán](./docs/checkout.png)
-![Admin Dashboard](./docs/admin-dashboard.png)
+![Trang chủ](./docs/home.jpg)
+![Giỏ hàng & Thanh toán](./docs/checkout.jpg)
+![Admin Dashboard](./docs/admin-dashboard.jpg)
 
 ---
 
